@@ -17,10 +17,10 @@
 3. 第一个版本，未经过严密的测试，请谨慎使用。
 
 ## 使用截图
-![图片] (snapshot/Quicker_20220610_130954.png)
+![图片](snapshot/Quicker_20220610_130954.png)
 
-![图片] (snapshot/Quicker_20220610_131058.png)
+![图片](snapshot/Quicker_20220610_131058.png)
 
-![图片] (snapshot/Quicker_20220610_131203.png)
+![图片](snapshot/Quicker_20220610_131203.png)
 
-![图片] (snapshot/Quicker_20220610_131228.png)
+![图片](snapshot/Quicker_20220610_131228.png)
